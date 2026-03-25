@@ -47,6 +47,7 @@ WHERE t.seat_number >= 2;
 ```
 
 Результат:
+
 ![without DELETE command](Without_DELETE.png)
 
 delete-select script
@@ -68,4 +69,5 @@ WHERE t.seat_number >= 2
 ```
 
 Результат:
+
 ![just Delete](Just_DELETE.png)
